@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Roboto+Slab&display=swap');
+body{
+    background:#254668;
+    font-size: 20px;
+    font-family: Roboto Slab, Arial ;
+    font-weight: bold;
+}
+
+.job{
+    font-style: italic;
+}
+.bg_white  {
+    background-color: white;
+    border-radius: 5px;
+    color:#254668;
+}
+
+.bg_grey{
+    background-color: #7e99c4 ;
+    border-radius: 5px;
+    color:white;
+}
+
+h1, h2{
+    text-align: center;
+}
+p{
+    margin-left:20px;
+}
+table, caption{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    border: #254668 5px solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+thead{
+    background-color: rgba(37, 70, 104, 0.2);
+    /* border: rgb(37, 70, 104) 2px solid; */
+}
